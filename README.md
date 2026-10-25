@@ -1,4 +1,4 @@
-# Python-Basics-25BCON2088
+# factorial.py
 Factorial Calculator
 Project Description
 
